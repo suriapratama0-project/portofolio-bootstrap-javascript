@@ -8,7 +8,8 @@ Sebuah website portofolio pribadi yang menampilkan karya, layanan, dan latar bel
 
 - [Fitur](#fitur)  
 - [Teknologi yang Digunakan](#teknologi-yang-digunakan)  
-- [Struktur Proyek](#struktur-proyek)  
+- [Struktur Proyek](#struktur-proyek)
+- [Penjelasan struktur](#penjelasan-struktur)  
 - [Tangkapan Layar](#tangkapan-layar)  
 - [Informasi Kontak](#informasi-kontak)  
 - [Lisensi](#lisensi)  

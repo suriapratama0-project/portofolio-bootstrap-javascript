@@ -81,23 +81,18 @@ portofolio-bootstrap-javascript/
 
 ## Tangkapan Layar
 #### Halaman Utama
----
 ![Preview Website](assets/images/home.png)
 
 #### Halaman Project
----
 ![Preview Website](assets/images/project.png)
 
 #### Halaman About
----
 ![Preview Website](assets/images/about.png)
 
 #### Halaman Jasa
----
 ![Preview Website](assets/images/jasa.png)
 
 #### Halaman Footer
----
 ![Preview Website](assets/images/footer.png)
 
 ---

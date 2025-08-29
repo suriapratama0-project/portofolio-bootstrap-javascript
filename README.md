@@ -3,7 +3,7 @@
 Sebuah website portofolio pribadi yang menampilkan karya, layanan, dan latar belakang saya sebagai UI Designer & Front-End Developer. Proyek ini berfungsi sebagai ruang digital untuk mendemonstrasikan kemampuan saya dalam desain antarmuka dan pengembangan web front-end. Situs ini responsif, dioptimalkan untuk tampilan mobile dan desktop, serta memuat bagian-bagian penting untuk mempresentasikan karya, menawarkan layanan, dan memudahkan pengunjung untuk menghubungi saya. Proyek ini sepenuhnya dibangun menggunakan teknologi front-end tanpa integrasi back-end.
 
 ---
-demo :  https://suriapratama0-project.github.io/portofolio-bootstrap-javascript/
+Demo :  https://suriapratama0-project.github.io/portofolio-bootstrap-javascript/
 ---
 
 ## Daftar Isi

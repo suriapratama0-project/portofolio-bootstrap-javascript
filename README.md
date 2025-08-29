@@ -32,13 +32,13 @@ Sebuah website portofolio pribadi yang menampilkan karya, layanan, dan latar bel
 
 ## Teknologi yang Digunakan
 
-- **HTML5**:: Struktur konten menggunakan tag semantik untuk SEO dan aksesibilitas.
-- **CSS3**:: Styling halaman menggunakan properti modern seperti flexbox dan grid.
-- **Bootstrap 5**:: Framework CSS untuk membuat layout responsif dan komponen UI siap pakai seperti navbar, card, dan tombol.
-- **JavaScript**:: Digunakan untuk interaksi dasar seperti tombol "Back to Top" dan kemungkinan validasi form.
-- **Font Awesome**:: Library ikon berbasis CSS untuk menambahkan ikon media sosial dan ikon navigasi.
-- **Custom CSS (style.css)**:: Untuk menyesuaikan desain visual di luar framework Bootstrap.
-- **Custom JavaScript (main.js)**:: Untuk logika tambahan seperti efek animasi atau interaktivitas tombol.
+- **HTML5**: Struktur konten menggunakan tag semantik untuk SEO dan aksesibilitas.
+- **CSS3**: Styling halaman menggunakan properti modern seperti flexbox dan grid.
+- **Bootstrap 5**: Framework CSS untuk membuat layout responsif dan komponen UI siap pakai seperti navbar, card, dan tombol.
+- **JavaScript**: Digunakan untuk interaksi dasar seperti tombol "Back to Top" dan kemungkinan validasi form.
+- **Font Awesome**: Library ikon berbasis CSS untuk menambahkan ikon media sosial dan ikon navigasi.
+- **Custom CSS (style.css)**: Untuk menyesuaikan desain visual di luar framework Bootstrap.
+- **Custom JavaScript (main.js)**: Untuk logika tambahan seperti efek animasi atau interaktivitas tombol.
 
 ---
 
@@ -66,7 +66,6 @@ portofolio-bootstrap-javascript/
 │
 └── (opsional) README.md
 ```
----
 
 ## Penjelasan struktur
 

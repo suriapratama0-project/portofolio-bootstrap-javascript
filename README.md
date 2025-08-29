@@ -92,6 +92,10 @@ portofolio-bootstrap-javascript/
 ---
 ![Preview Website](assets/images/about.png)
 
+#### Halaman Jasa
+---
+![Preview Website](assets/images/jasa.png)
+
 #### Halaman Footer
 ---
 ![Preview Website](assets/images/footer.png)

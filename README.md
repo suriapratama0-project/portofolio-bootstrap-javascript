@@ -90,7 +90,7 @@ portofolio-bootstrap-javascript/
 
 #### Halaman About
 ---
-![Preview Website](assets/images/about.png)
+![Preview Website]
 
 #### Halaman Jasa
 ---

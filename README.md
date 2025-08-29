@@ -66,6 +66,16 @@ portofolio-bootstrap-javascript/
 │
 └── (opsional) README.md
 ```
+---
+
+## Penjelasan struktur
+
+- **index.html**: Halaman utama website yang berisi struktur konten portofolio menggunakan HTML5 dan tag semantik.
+- **assets/css/**: Folder untuk file stylesheet seperti bootstrap.min.css dan style.css yang digunakan untuk styling tampilan.
+- **assets/js/**: Folder untuk file JavaScript seperti bootstrap.min.js dan main.js yang menangani interaktivitas dan komponen dinamis.
+- **assets/images/**: Berisi semua aset gambar yang digunakan dalam proyek seperti gambar proyek, foto profil, dan ilustrasi.
+- **assets/fonts/ (opsional)**: Tempat menyimpan file font atau ikon lokal seperti Font Awesome jika tidak menggunakan CDN.
+- **README.md**: File dokumentasi proyek yang menjelaskan deskripsi, cara penggunaan, teknologi yang digunakan, dan informasi tambahan lainnya.
 
 ---
 

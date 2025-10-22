@@ -8,6 +8,7 @@ Demo :  https://suriapratama0-project.github.io/portofolio-bootstrap-javascript/
 
 ## Daftar Isi
 
+- [Fitur Baru v2.0 (Updated)](#fitur-baru-v2.0-(updated))  
 - [Fitur](#fitur)  
 - [Teknologi yang Digunakan](#teknologi-yang-digunakan)  
 - [Struktur Proyek](#struktur-proyek)
@@ -19,6 +20,16 @@ Demo :  https://suriapratama0-project.github.io/portofolio-bootstrap-javascript/
 - [Ucapan Terima Kasih](#ucapan-terima-kasih)  
 
 ---
+
+## Fitur Baru v2.0 (Updated) 
+- **Penambahan Margin**: Layout diperbaiki agar jarak antar elemen lebih proporsional, terutama di bagian kartu proyek dan teks About. 
+- **Foto Profil Baru**: Update gambar profil terbaru di bagian About Me. 
+- **Fitur Read More**: Setiap kartu project kini memiliki tombol Read More untuk menampilkan deskripsi lengkap tanpa merusak layout halaman.
+- **Link Project**: Setiap project memiliki tautan langsung ke demo atau repository GitHub.
+- **Deskripsi Proyek Lengkap**: Setiap project sekarang memuat detail teknologi, fitur, dan hasil implementasi.
+- **Penambahan Project Baru**: Menambah project terbaru untuk menampilkan variasi portofolio.
+- **Rapi dan Terstruktur**: Perbaikan teks dan layout agar lebih konsisten dan mudah dibaca.
+- **Sistem Kirim Pesan via Email**: Contact form sekarang terhubung ke FormSubmit, memungkinkan pengunjung mengirim pesan langsung ke email tanpa back-end.
 
 ## Fitur
 

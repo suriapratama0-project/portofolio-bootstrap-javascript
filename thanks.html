@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Thank You</title>
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <style>
+      body {
+        background: linear-gradient(135deg, #1e1e1e, #2c2c2c);
+        color: #fff;
+        font-family: "Poppins", sans-serif;
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+      }
+
+      .thankyou-container {
+        background: rgba(255, 255, 255, 0.05);
+        padding: 50px;
+        border-radius: 20px;
+        box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+        max-width: 500px;
+        width: 90%;
+        animation: fadeIn 1s ease;
+      }
+
+      h1 {
+        font-weight: 600;
+        color: #ffc107;
+      }
+
+      p {
+        font-size: 1.1rem;
+        margin-bottom: 30px;
+      }
+
+      a.btn {
+        border-radius: 30px;
+        padding: 10px 25px;
+      }
+
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+          transform: translateY(20px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="thankyou-container">
+      <h1>Thank You!</h1>
+      <p>Your message has been successfully sent.<br />
+        I’ll get back to you as soon as possible.</p>
+      <a href="https://suriapratama0-project.github.io/portofolio-bootstrap-javascript/" class="btn btn-outline-warning">Back to Home</a>
+    </div>
+
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

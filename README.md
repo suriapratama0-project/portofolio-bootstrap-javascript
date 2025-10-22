@@ -8,7 +8,7 @@ Demo :  https://suriapratama0-project.github.io/portofolio-bootstrap-javascript/
 
 ## Daftar Isi
 
-- [Fitur Baru v2.0 (Updated)](#fitur-baru-v2.0-(updated))  
+- [Fitur Baru v2.0 (Updated)](#fitur-baru-v20-updated)
 - [Fitur](#fitur)  
 - [Teknologi yang Digunakan](#teknologi-yang-digunakan)  
 - [Struktur Proyek](#struktur-proyek)
